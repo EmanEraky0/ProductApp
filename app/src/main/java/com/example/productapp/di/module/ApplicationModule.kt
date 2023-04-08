@@ -1,4 +1,4 @@
-package com.example.productapp.presentation.module
+package com.example.productapp.di.module
 
 import com.example.productapp.BuildConfig
 import com.example.productapp.data.api.ApiService
